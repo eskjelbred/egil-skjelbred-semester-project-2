@@ -43,8 +43,6 @@ Navigate to your index.html and right-click the file, then press Open with Live 
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
 [My Github-page](https://github.com/eskjelbred/)
 
 [My LinkedIn page](https://www.linkedin.com/in/practiz/)
