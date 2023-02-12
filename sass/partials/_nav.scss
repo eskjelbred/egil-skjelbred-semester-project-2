@@ -1,0 +1,22 @@
+header {
+    flex-direction: column;
+    align-items: center;
+
+    .nav-link {
+        padding: 8px 10px;
+    }
+
+    .nav-item {
+        a {
+            color: getColors(dark);
+        }
+
+        a.active {
+            text-decoration: underline;
+        }
+    }
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+}

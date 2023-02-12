@@ -1,0 +1,21 @@
+body {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1140px;
+
+    .product-container__summary {
+        text-align: end;
+    }
+
+    @media (min-width: 576px) {
+        max-width: 540px;
+    }
+
+    @media (min-width: 768px) {
+        max-width: 720px;
+    }
+
+    @media (min-width: 992px) {
+        max-width: 960px;
+    }
+}
