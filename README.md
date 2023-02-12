@@ -2,69 +2,49 @@
 
 ![image](./Skjermbilde%202023-02-12%20kl.%2014.51.09.png)
 
-A simple overview of the use/purpose of the project.
+An e-commerce website with both customer-facing and admin sections.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The semester project January 22 we were to build a frontend for a e-commerce website with both customer-facing and admin sections.
+We were free to choose the theme and tool to create this website, my choice was using Bootstrap and SASS which was something I wasn't familier with.
+We also had to follow these bulletpoints for the assignment:
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+- Build a frontend with home, product list, product detail and cart pages.
+- Build admin pages to create, update and delete products.
+- The website must be responsive on all devices.
+- Building a checkout and payment system is not a part of the project.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
+- [SASS](https://sass-lang.com/)
+
+## Pre-requirements
+
+This assignment requires you to run a service that provides an API for the products.
+This prerequired API is not provided but feel free to follow this repo to create your own server:
+
+[Noroff Strapi](https://github.com/NoroffFEU/strapi-sp2)
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install
+git https://github.com/eskjelbred/egil-skjelbred-semester-project-2.git
 ```
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+Navigate to your index.html and right-click the file, then press Open with Live Server. This will run the live-server and you will be able to navigate through the assignment.
 
 ## Contact
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+[My Github-page](https://github.com/eskjelbred/)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+[My LinkedIn page](https://www.linkedin.com/in/practiz/)
